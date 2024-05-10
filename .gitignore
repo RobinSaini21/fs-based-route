@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Built output
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Test coverage
+coverage/
+
+# Compiled binary addons (if any)
+*.node
